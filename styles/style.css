@@ -11,3 +11,8 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 body{
     background-color: seagreen;
 }
+
+h1,
+p{
+    color:coral;
+}
